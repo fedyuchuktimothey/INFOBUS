@@ -266,6 +266,9 @@
         <mxCell id="Lz7pOEYVJQ1kgy6Lk-gU-1" value="тест 12345" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Lz7pOEYVJQ1kgy6Lk-gU-2" value="тест 234567&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
