@@ -259,7 +259,7 @@
             <mxPoint x="550" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1BRfyd90inixwe90rNa-4" value="тест в лайве&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G1BRfyd90inixwe90rNa-4" value="&lt;div&gt;лайк подписка репост&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509.99999999999955" y="439.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
