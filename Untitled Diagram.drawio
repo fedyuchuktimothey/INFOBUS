@@ -75,11 +75,6 @@
         <mxCell id="qL8Xj3PJYmWpMpbPDrzU-29" value="Оплата успешная?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="900" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G1BRfyd90inixwe90rNa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qL8Xj3PJYmWpMpbPDrzU-30" target="G1BRfyd90inixwe90rNa-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="369.99999999999955" y="829.8235294117646" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qL8Xj3PJYmWpMpbPDrzU-30" value="Выбор билета" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -249,18 +244,6 @@
             <mxPoint x="750" y="1349.7" as="sourcePoint" />
             <mxPoint x="680" y="1349.7" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G1BRfyd90inixwe90rNa-2" value="Тест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359.99999999999955" y="800.0035294117646" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1BRfyd90inixwe90rNa-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qL8Xj3PJYmWpMpbPDrzU-17" target="G1BRfyd90inixwe90rNa-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="520" as="sourcePoint" />
-            <mxPoint x="550" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G1BRfyd90inixwe90rNa-4" value="&lt;div&gt;лайк подписка репост&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509.99999999999955" y="439.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
